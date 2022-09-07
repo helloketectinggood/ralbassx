@@ -19,6 +19,8 @@ vless 性能更加优秀，占用资源更少。
 
 ### 服务端
 
+进入：https://railway.app?referralCode=OBywhi
+
 fork 之后 ，在railway的dashboard，选择 new project
 [![CHIH8A.png](https://www.helloimg.com/images/2021/09/05/CHIH8A.png)](https://www.helloimg.com/image/CHIH8A)
 然后在github中选中本仓库

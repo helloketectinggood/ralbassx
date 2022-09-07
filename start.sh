@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # configs
-AUUID=5bcb43fc-fb07-507c-88d5-d06492bcfa60
-CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
+AUUID=4384f453-0515-4bbb-a8b3-3213ef89ecf2
+CADDYIndexPage=https://github.com/jukanntenn/django-blog-tutorial-templates/archive/refs/heads/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
